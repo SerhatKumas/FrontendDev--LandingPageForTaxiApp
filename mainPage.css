@@ -1,0 +1,15 @@
+body{
+    font-family: 'Press Start 2P', cursive;
+}
+#logo
+{
+    max-width: 10%;
+    max-height: 10%;
+    border-radius: 30px;
+}
+a{
+    text-decoration: none;
+    color: #f9b701;
+    font-size: 70%;
+    font-weight: 600;
+}
