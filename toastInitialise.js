@@ -1,4 +1,5 @@
-window.onload = function() {
+window.onload = setTimeout(fireToast,2000);
+function fireToast() {
     var toastElList = [].slice.call(document.querySelectorAll('.toast'))
     var toastList = toastElList.map(function(toastEl) {
     // Creates an array of toasts (it only initializes them)
