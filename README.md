@@ -9,6 +9,7 @@
 - [@HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - [@CSS 5](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [@Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+- [@Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 # Hi, I'm Serhat the Author! 👋
 
