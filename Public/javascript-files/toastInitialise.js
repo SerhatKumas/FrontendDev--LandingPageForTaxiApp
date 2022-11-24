@@ -1,4 +1,7 @@
+//After 2 second window is loaded, toast will be shown
 window.onload = setTimeout(fireToast,2000);
+
+//Fire toast function -> Show at the screen
 function fireToast() {
     var toastElList = [].slice.call(document.querySelectorAll('.toast'))
     var toastList = toastElList.map(function(toastEl) {
